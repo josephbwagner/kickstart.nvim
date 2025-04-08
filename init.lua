@@ -275,6 +275,7 @@ require('lazy').setup({
       },
     },
   },
+  { 'petobens/poet-v' },
 
   -- NOTE: Plugins can also be configured to run Lua code when they are loaded.
   --
